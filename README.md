@@ -8,7 +8,7 @@
 
 ## Description 
 
-
+This simple calendar application that allows a user to save events for each hour of the day. Despite of having a busy schedule you can plug the important things in the calendar so you must get them done before your work hours end. So this calendar changes color of its inputs depending on the time of the day to help you see the tasks you have done or will need to do.
 
 
 

@@ -25,7 +25,7 @@
 
 - [Github Link](https://github.com/rajveer-s/Day-Planner)
 
-- [Deployed Link]()
+- [Deployed Link](https://rajveer-s.github.io/Day-Planner/)
 
 
 ## Screenshot

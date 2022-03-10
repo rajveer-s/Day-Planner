@@ -23,13 +23,13 @@
 
 ## Links 
 
--[]()
+-[Github Link](https://github.com/rajveer-s/Day-Planner)
 
--[]()
+-[Deployed Link]()
 
 
 ## Screenshot
-[]()
+[Screenshot](./develop/screenshot/Work%20Day%20Scheduler.png)
 
 
 ## User Story

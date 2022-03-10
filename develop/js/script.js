@@ -29,3 +29,5 @@ function timeBlock() {
 
 }
 timeBlock();
+
+// call an on click function on submitBtn adn add the storage of textarea to local storage 
